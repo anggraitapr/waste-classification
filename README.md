@@ -149,7 +149,6 @@ Kamera lain dapat dipilih dengan `--camera 1`.
 - Canny (1986), Hu (1962), Ojala dkk. (2002, LBP), Cortes & Vapnik (1995, SVM)
 -  Institut Teknologi Sepuluh Nopember. (n.d.). Limbah dan sampah. https://www.its.ac.id/smartecocampus/limbah-dan-sampah/
 
-- Repository GitHub: (isi jika dipakai)
 ## 11. Dataset
 
 Berikut beberapa dataset yang diambil dari Roboflow Universe yang dikombinasikan untuk project ini:
