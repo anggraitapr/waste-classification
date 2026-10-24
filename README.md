@@ -147,5 +147,27 @@ Kamera lain dapat dipilih dengan `--camera 1`.
 - scikit-learn, https://scikit-learn.org
 - NumPy, joblib, matplotlib
 - Canny (1986), Hu (1962), Ojala dkk. (2002, LBP), Cortes & Vapnik (1995, SVM)
-- Dataset: (isi sesuai sumber yang dipakai)
+-  Institut Teknologi Sepuluh Nopember. (n.d.). Limbah dan sampah. https://www.its.ac.id/smartecocampus/limbah-dan-sampah/
+
 - Repository GitHub: (isi jika dipakai)
+## 11. Dataset
+
+Berikut beberapa dataset yang diambil dari Roboflow Universe yang dikombinasikan untuk project ini:
+
+  - [Waste Detection — University of Central Asia](https://universe.roboflow.com/university-of-central-asia-rcqwr/waste-detection-a2jiu)
+  - [Waste_yolov — Cera](https://universe.roboflow.com/cera/waste_yolov)
+  - [Garbage Classification by YOLO](https://universe.roboflow.com/garbage-w9jnq/garbage-classification-by-yolo)
+  - [5th-version](https://universe.roboflow.com/ta-dz8qd/5th-version)
+  - [Bin-osctr](https://universe.roboflow.com/blueflame/bin-osctr)
+  - [Yolo-3n5wi](https://universe.roboflow.com/image-qa3cz/yolo-3n5wi)
+  - [Tissue Paper Detector](https://universe.roboflow.com/jag-ng-dpzdv/tissue-paper-detector)
+  - [Garbage-gqsy2](https://universe.roboflow.com/ai-4ywg5/garbage-gqsy2)
+  - [Garbage-find](https://universe.roboflow.com/zylllls-workspace/garbage-find)
+  - [Watse](https://universe.roboflow.com/waste-iwhy5/watse)
+  - [Plastic-wrapper-efmw4](https://universe.roboflow.com/theproject-iufne/plastic-wrapper-efmw4)
+  - [Plastic-wrapper-x3hir](https://universe.roboflow.com/gxd8/plastic-wrapper-x3hir)
+  - [Stytes](https://universe.roboflow.com/azcifer666/stytes)
+  - [Stytes2](https://universe.roboflow.com/azcifer666/stytes2)
+  - [Garbage Classification 4fakp](https://universe.roboflow.com/dataset-ienb7/garbage-classification-4fakp)
+  - [Garbage Detection yiq2s](https://universe.roboflow.com/iit2-snna2/garbage-detection-yiq2s)
+  - [YOLO Waste Detection tyahu](https://universe.roboflow.com/phatpharids-workspace/yolo-waste-detection-tyahu)
