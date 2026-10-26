@@ -1,0 +1,23 @@
+Waktu training : 2026-10-26 18:11:37
+Dataset        : dataset
+Gambar per kelas: {'kertas_dus': 193, 'plastik_kaleng': 195, 'residu': 190, 'sisa_makanan': 197}
+Augmentasi     : True
+Data latih/uji : 620 / 155 gambar asli
+Parameter terbaik: {'svc__C': 10, 'svc__gamma': 'scale'}
+
+                precision    recall  f1-score   support
+
+    kertas_dus       0.74      0.82      0.78        39
+plastik_kaleng       0.79      0.85      0.81        39
+        residu       0.79      0.71      0.75        38
+  sisa_makanan       0.94      0.87      0.91        39
+
+      accuracy                           0.81       155
+     macro avg       0.82      0.81      0.81       155
+  weighted avg       0.82      0.81      0.81       155
+
+Confusion matrix:
+[[32  3  4  0]
+ [ 2 33  3  1]
+ [ 7  3 27  1]
+ [ 2  3  0 34]]
