@@ -170,3 +170,8 @@ Berikut beberapa dataset yang diambil dari Roboflow Universe yang dikombinasikan
   - [Garbage Classification 4fakp](https://universe.roboflow.com/dataset-ienb7/garbage-classification-4fakp)
   - [Garbage Detection yiq2s](https://universe.roboflow.com/iit2-snna2/garbage-detection-yiq2s)
   - [YOLO Waste Detection tyahu](https://universe.roboflow.com/phatpharids-workspace/yolo-waste-detection-tyahu)
+  - [Styrofoam Detection — A](https://universe.roboflow.com/a-3zezt/styrofoam-wfuot/?queryText=&pageSize=100&startingIndex=0&browseQuery=true)
+  - [Tugas Akhir Deteksi Sampah — Tugas Akhir](https://universe.roboflow.com/tugas-akhir-itd6q/tugas-akhir-deteksi-sampah-pscer/browse?queryText=&pageSize=100&startingIndex=0&browseQuery=true)
+  - [Sanitary Pad Dataset — Onlymd](https://universe.roboflow.com/onlymd/sanitary-pad-dataset/images/0Fq7FzfUpYORe8Lf10Oh?browseQuery=true)
+  - [Waste Augmentation Residual — Waste Augmentation Special](https://universe.roboflow.com/waste-augmentation-special/waste-augmentation-residual-pnrbw?queryText=&pageSize=100&startingIndex=100&browseQuery=true)
+  - [Tissue — Jihun Lee](https://universe.roboflow.com/jihun-lee/tissue-1ojxt-bcjkw)
